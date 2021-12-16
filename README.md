@@ -1,11 +1,17 @@
 
 # Gramoday Backend Api
+
+     > Gramoday Backend Api is Node-Express based JS API (using MongoDB) web-service which captures user contributed reports and returns an aggregate report in response.
+
+
+
 ### Deployed backend api
- [This](https://gramoday-api.herokuapp.com/) link will show all the reports currently added
+[Click here to fetch all recorded reports](https://gramoday-api.herokuapp.com/)
+
 
 To make query based get request add this to [url](https://gramoday-api.herokuapp.com/) :
 ```
-/reports/cmdtyID={commodtyID}
+/reports?cmdtyID={commodtyID}
 ```
 * Here {commodtyID} can be `cmdty-1 or cmdty-2 etc` 
 * We can make a get request of a cmdtyID as along as it has been already added to the database by making a post request
@@ -87,7 +93,7 @@ Now to fetch Posts in form of Cards using GET request from front-end ,use the li
 ```
 http://localhost:3000/reports?cmdtyID={commodtyID}
 ```
-* Here {commodtyID} can be `cmdty-1 or cmdty-2 etc` 
+* Here, {commodtyID} can be `cmdty-1 or cmdty-2 etc` 
 * We can make a get request of a cmdtyID as along as it has been already added to the database by making a post request
 
 Example:
