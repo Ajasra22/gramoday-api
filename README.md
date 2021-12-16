@@ -36,6 +36,32 @@ Response on successful Post request would be
 }
 ```
 
+### Local Setup & Installation
+Open terminal and run the following command:
+```
+$ git clone https://github.com/Ajasra22/gramoday-api.git
+```
+ - #### Backend Installation
+ ```
+ $ cd server
+ $ npm install
+ ```
+ - #### Run Backend
+ ```
+  $ npm start
+ ```
+ 
+- #### Front End Installation
+ ```
+ $ cd client 
+ $ npm install
+ ```
+- #### Run Front End
+```
+$ npm start
+```
+
+
 ### Api Testing With "Jest" & "Supertest"
 Test file **index.test.js**
 
@@ -59,3 +85,17 @@ Time:        10.587 s
 Ran all test suites.
 ```
 This shows our api's are running fine and giving the desired output
+
+## Made and Maintained by
+<table>
+<td align="center">
+ <a href="https://github.com/Ajasra22">
+ <img src="https://avatars.githubusercontent.com/u/60650011?s=400&u=f7dbdcbfd385cbef07518308ef1b5ca082ff29cc&v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+            <b>Ajasra Gupta</b>
+         </sub>
+ </a>
+ <br/>
+ </td>
+ </table>
