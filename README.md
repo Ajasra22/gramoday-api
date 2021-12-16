@@ -7,7 +7,7 @@ To make query based get request add this to [url](https://gramoday-api.herokuapp
 ```
 /reports/cmdtyID={commodtyID}
 ```
-* Here commodtyID can be `cmdty-1 or cmdty-2 etc` 
+* Here {commodtyID} can be `cmdty-1 or cmdty-2 etc` 
 * We can make a get request of a cmdtyID as along as it has been already added to the database by making a post request
 
 **Post /reports**
@@ -71,7 +71,31 @@ conneted to mongo successfully
 ```
 $ npm start
 ```
+Command Prompt will show the following message
+```
+Compiled successfully!
 
+You can now view client in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.43.47:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+```
+Now to fetch Posts in form of Cards using GET request from front-end ,use the link
+```
+http://localhost:3000/reports?cmdtyID={commodtyID}
+```
+* Here {commodtyID} can be `cmdty-1 or cmdty-2 etc` 
+* We can make a get request of a cmdtyID as along as it has been already added to the database by making a post request
+
+Example:
+
+<p align="center">
+<img width="460" height="300" src="https://raw.githubusercontent.com/Ajasra22/gramoday-api/main/images/front-end-cards.png?token=AOOXEG5MFYYHCWZIHJN3XU3BXNRWY"  alt="Front-end">
+ </p>
+ 
 
 ### Api Testing With "Jest" & "Supertest"
 Test file **index.test.js**
