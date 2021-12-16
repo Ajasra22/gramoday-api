@@ -50,8 +50,19 @@ $ git clone https://github.com/Ajasra22/gramoday-api.git
  ```
   $ npm start
  ```
- [Deployed Back end](###deployed-backend-api)
-- #### Front End Installation
+ Command Prompt will show the following message:
+ ```
+[nodemon] starting `node index.js`
+Example app listening at http://localhost:5000
+conneted to mongo successfully
+ ```
+ To make *GET* and *POST* request follow the same steps mentioned in [Deployed Backend Api](###Deployed-backend-api) section
+
+ To have better view of json elements install [Json view Pro Extension](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc)
+ <hr></hr>
+
+ 
+ - #### Front End Installation
  ```
  $ cd client 
  $ npm install
