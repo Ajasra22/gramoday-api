@@ -56,12 +56,12 @@ $ git clone https://github.com/Ajasra22/gramoday-api.git
 Example app listening at http://localhost:5000
 conneted to mongo successfully
  ```
- To make *GET* and *POST* request follow the same steps mentioned in [Deployed Backend Api](###Deployed-backend-api) section
+ To make *GET* and *POST* request follow the same steps mentioned in [Deployed Backend Api](#gramoday-backend-api) section
 
  To have better view of json elements install [Json view Pro Extension](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc)
  <hr></hr>
 
- 
+
  - #### Front End Installation
  ```
  $ cd client 
