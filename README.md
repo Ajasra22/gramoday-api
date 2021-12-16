@@ -42,12 +42,15 @@ Response on successful Post request would be
   "reportID": "61b9bf824cc6f6931d44720d"
 }
 ```
+<hr></hr>
 
 ### Local Setup & Installation
 Open terminal and run the following command:
 ```
 $ git clone https://github.com/Ajasra22/gramoday-api.git
 ```
+### BackEnd
+
  - #### Backend Installation
  ```
  $ cd server
@@ -66,9 +69,9 @@ conneted to mongo successfully
  To make *GET* and *POST* request follow the same steps mentioned in [Deployed Backend Api](#gramoday-backend-api) section
 
  To have better view of json elements install [Json view Pro Extension](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc)
- <hr></hr>
 
 
+### FrontEnd
  - #### Front End Installation
  ```
  $ cd client 
@@ -103,6 +106,7 @@ Example:
 <img width="460" height="300" src="https://github.com/Ajasra22/gramoday-api/blob/main/images/front-end-cards.png"  alt="Front-end">
  </p>
  
+<hr></hr>
 
 ### Api Testing With "Jest" & "Supertest"
 Test file **index.test.js**
