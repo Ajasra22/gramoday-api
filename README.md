@@ -93,7 +93,7 @@ http://localhost:3000/reports?cmdtyID={commodtyID}
 Example:
 
 <p align="center">
-<img width="460" height="300" src="https://raw.githubusercontent.com/Ajasra22/gramoday-api/main/images/front-end-cards.png?token=AOOXEG5MFYYHCWZIHJN3XU3BXNRWY"  alt="Front-end">
+<img width="460" height="300" src="https://github.com/Ajasra22/gramoday-api/blob/main/images/front-end-cards.png"  alt="Front-end">
  </p>
  
 
