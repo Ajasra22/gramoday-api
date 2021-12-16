@@ -50,7 +50,7 @@ $ git clone https://github.com/Ajasra22/gramoday-api.git
  ```
   $ npm start
  ```
- 
+ [Deployed Back end](###deployed-backend-api)
 - #### Front End Installation
  ```
  $ cd client 
@@ -86,10 +86,11 @@ Ran all test suites.
 ```
 This shows our api's are running fine and giving the desired output
 
-## Made and Maintained by
+### Made by
+<hr/>
 <table>
 <td align="center">
- <a href="https://github.com/Ajasra22">
+ <a align="center" href="https://github.com/Ajasra22">
  <img src="https://avatars.githubusercontent.com/u/60650011?s=400&u=f7dbdcbfd385cbef07518308ef1b5ca082ff29cc&v=4" width="100px;" alt=""/>
          <br />
          <sub>
