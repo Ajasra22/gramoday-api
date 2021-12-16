@@ -17,7 +17,8 @@ To make query based get request add this to [url](https://gramoday-api.herokuapp
 * We can make a get request of a cmdtyID as along as it has been already added to the database by making a post request
 
 **Post /reports**
-Using applications like Postman or thunderclient we can make a post request of desired *Json* form:
+
+Using applications like ***Postman*** or ***thunderclient*** we can make a post request of desired *Json* form:
 ```
 {
     "reportDetails" :{
