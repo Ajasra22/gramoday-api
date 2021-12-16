@@ -71,7 +71,7 @@ conneted to mongo successfully
  To have better view of json elements install [Json view Pro Extension](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc)
 
 
-### FrontEnd
+### BONUS TASK : FrontEnd
  - #### Front End Installation
  ```
  $ cd client 
@@ -108,7 +108,7 @@ Example:
  
 <hr></hr>
 
-### Api Testing With "Jest" & "Supertest"
+### BONUS TASK: Api Testing With "Jest" & "Supertest"
 Test file **index.test.js**
 
 To run the file use command
