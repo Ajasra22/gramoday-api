@@ -130,9 +130,9 @@ This shows our api's are running fine and giving the desired output
 ### Made by
 <hr/>
 <table>
-<td align="center">
+<td>
  <a align="center" href="https://github.com/Ajasra22">
- <img src="https://avatars.githubusercontent.com/u/60650011?s=400&u=f7dbdcbfd385cbef07518308ef1b5ca082ff29cc&v=4" width="100px;" alt=""/>
+ <img align="center" src="https://avatars.githubusercontent.com/u/60650011?s=400&u=f7dbdcbfd385cbef07518308ef1b5ca082ff29cc&v=4" width="100px;" alt=""/>
          <br />
          <sub>
             <b>Ajasra Gupta</b>
